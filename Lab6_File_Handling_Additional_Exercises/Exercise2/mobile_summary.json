@@ -1,0 +1,12 @@
+{
+    "student": "Malitao",
+    "student_id": "TUPM-26-1135",
+    "operating_system": "iOS",
+    "target_behavior_class": 1,
+    "total_dataset_records": 700,
+    "matching_operating_system_records": 146,
+    "records_in_target_behavior_class": 22,
+    "invalid_records": 0,
+    "average_battery_drain_mAh_per_day": 467.22727272727275,
+    "average_data_usage_MB_per_day": 201.45454545454547
+}

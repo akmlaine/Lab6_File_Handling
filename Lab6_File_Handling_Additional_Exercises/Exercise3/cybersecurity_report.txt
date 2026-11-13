@@ -1,0 +1,32 @@
+CYBERSECURITY INCIDENT REPORT
+============================
+Student: Malitao
+Student ID: TUPM-26-1135
+Target Year: 2020
+
+INCIDENT SUMMARY
+-----------------
+Total Incidents: 315
+Invalid Records: 0
+
+ATTACK TYPE COUNTS
+------------------
+DDoS: 56
+Malware: 37
+Man-in-the-Middle: 47
+Phishing: 61
+Ransomware: 59
+SQL Injection: 55
+
+FINANCIAL LOSS SUMMARY
+----------------------
+Total Financial Loss: $15767.95 million
+Average Financial Loss: $50.06 million
+
+TOP FIVE HIGHEST-LOSS INCIDENTS
+--------------------------------
+1. Ransomware - Brazil - $99.90 million
+2. DDoS - Japan - $99.83 million
+3. DDoS - USA - $99.81 million
+4. SQL Injection - India - $99.72 million
+5. Phishing - USA - $99.64 million

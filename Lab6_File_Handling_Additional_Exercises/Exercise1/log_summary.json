@@ -1,0 +1,34 @@
+{
+    "student": "Malitao",
+    "student_id": "TUPM-26-1135",
+    "records_processed": 1018,
+    "target_status_class": "3xx",
+    "records_in_target_class": 164,
+    "invalid_records": 0,
+    "count_per_status_code": {
+        "302": 143,
+        "304": 21
+    },
+    "top_five_requested_urls": [
+        {
+            "url": "GET / HTTP/1.1",
+            "requests": 45
+        },
+        {
+            "url": "POST /process.php HTTP/1.1",
+            "requests": 35
+        },
+        {
+            "url": "GET /contestproblem.php?name=RUET%20OJ%20Server%20Testing%20Contest HTTP/1.1",
+            "requests": 34
+        },
+        {
+            "url": "GET /home.php HTTP/1.1",
+            "requests": 9
+        },
+        {
+            "url": "GET /logout.php HTTP/1.1",
+            "requests": 7
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+User ID,Device Model,Operating System,Battery Drain (mAh/day),Data Usage (MB/day)
+56,iPhone 12,iOS,450.0,111.0
+75,iPhone 12,iOS,476.0,125.0
+93,iPhone 12,iOS,501.0,284.0
+117,iPhone 12,iOS,409.0,281.0
+164,iPhone 12,iOS,469.0,139.0
+184,iPhone 12,iOS,308.0,275.0
+340,iPhone 12,iOS,590.0,155.0
+341,iPhone 12,iOS,435.0,223.0
+377,iPhone 12,iOS,490.0,122.0
+420,iPhone 12,iOS,454.0,228.0
+421,iPhone 12,iOS,416.0,198.0
+438,iPhone 12,iOS,408.0,291.0
+456,iPhone 12,iOS,436.0,182.0
+457,iPhone 12,iOS,587.0,275.0
+459,iPhone 12,iOS,547.0,142.0
+518,iPhone 12,iOS,592.0,218.0
+528,iPhone 12,iOS,466.0,131.0
+564,iPhone 12,iOS,440.0,265.0
+648,iPhone 12,iOS,565.0,283.0
+652,iPhone 12,iOS,519.0,167.0
+671,iPhone 12,iOS,387.0,224.0
+680,iPhone 12,iOS,334.0,113.0
