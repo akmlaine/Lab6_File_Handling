@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Malitao
+Student ID: TUPM-26-1135
+Seed Digit: 5
+ID Sum: 18
+Verification Value: 131
+DatasetSample Size: 68
+Valid Records: 68
+Average Global Active Power: 4.062
+JSON File: Malitao_TUPM-26-1135_record.json
+Backup File: Malitao_TUPM-26-1135_record.csv
